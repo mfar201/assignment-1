@@ -137,3 +137,17 @@ footer{
     margin-right: 150px;
     display: flex;
 }
+
+#final-section-h2{
+    font-style: italic; 
+    text-align: center; 
+    color: white;
+}
+
+#final-section span{
+    color: brown;
+}
+
+.p-margin-bottom{
+    margin-bottom: 30px;
+}
