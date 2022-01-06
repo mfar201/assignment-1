@@ -1,0 +1,139 @@
+body{
+    font-family: 'Courier Prime', monospace;
+    margin: 0;
+}
+
+h1{
+    margin: 0px;
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 27px;
+}
+
+
+p{
+    text-align: justify;
+}
+
+.font-color-orange{
+    color:orange;
+}
+
+#first-section{
+    margin-left: 150px;
+    display: flex;
+
+}
+#firstDiv{
+    margin-top: 60px;
+}
+#heading-border{
+    border-left: 3px solid;
+    border-left-color: orange;
+    padding-left: 10px;
+}
+
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.divImg{
+    margin: 0px;
+    width: 35%;
+    margin-left: 300px;
+}
+
+#second-section{
+    margin-top: 10%;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+}
+
+#second-section-div1{
+    width: 30%;
+    margin-top: 50px;
+    background-color: rgb(174, 223, 223);
+    border-radius: 10px;
+    padding-right: 30px;
+}
+
+#second-section-div2{
+    margin-left: 150px;
+    width: 30%;
+    margin-top: 50px;
+    background-color: rgb(228, 190, 218);
+    border-radius: 10px;
+    padding-right: 30px;
+}
+
+#second-section-div3{
+    margin-left: 150px;
+    width: 30%;
+    margin-top: 50px;
+    background-color: rgb(206, 191, 163);
+    border-radius: 10px;
+    padding-right: 30px;
+}
+
+.second-section-paragraph{
+    padding-left: 30px; 
+    padding-bottom: 25px;
+}
+
+.second-section-image{
+    width: 30%; 
+    padding-left: 10px;
+}
+
+.second-section-h3{
+    padding-left: 30px; 
+    margin: 0;
+}
+
+#third-section{
+    margin-top: 10%;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+}
+
+#fourth-section{
+    margin-top: 10%;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+}
+
+#final-section{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 10%;
+    background-color: black;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+#fifth-section{
+    margin-top: 10%;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+}
